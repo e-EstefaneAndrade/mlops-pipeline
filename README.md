@@ -51,5 +51,3 @@ git commit -m "exercicio de modularizacao"
 git remote add origin https://github.com/e-EstefaneAndrade/mlops-pipeline.git
 git push -u origin main
 ```
-
-O repositório deve ser **público** para que a correção automática funcione.
